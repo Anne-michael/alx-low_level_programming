@@ -2,7 +2,7 @@
 #define HEADER_FILE dog.h
 /**
  * struct dog - Define a new struct dog with name, age, owner
- * @age: name of the dog
+ * @name: name of the dog
  * @age: age of the dog
  * @owner: owner of dog
  **/
